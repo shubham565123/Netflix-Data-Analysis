@@ -1,4 +1,4 @@
-# Project Title: Netflix Data Analysis
+# Netflix Data Analysis
 
 ## Problem Statement
 Netflix, being a leading global media and video streaming platform with over 222 million subscribers worldwide, aims to leverage data-driven insights to make informed decisions on content production and business growth. The primary goal is to analyze the dataset containing information about movies and TV shows available on Netflix. The objective is to generate actionable insights that will guide Netflix in determining the types of shows and movies to produce and how to strategically expand its business in different countries.
